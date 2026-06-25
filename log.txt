@@ -1,0 +1,6 @@
+Input: !hello
+Input: !calc 5 + 7
+Input: !calc 4 / 0
+Input: !calc 6 ^ 2
+Input: unknown
+Input: !exit
