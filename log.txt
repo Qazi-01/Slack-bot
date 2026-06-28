@@ -4,3 +4,5 @@ Input: !calc 4 / 0
 Input: !calc 6 ^ 2
 Input: unknown
 Input: !exit
+Input: ls
+Input: !exit
