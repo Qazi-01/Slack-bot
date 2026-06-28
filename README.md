@@ -27,7 +27,7 @@ Examples:
 7
 72
 5
-</pre><h3>📝 Command Logger</h3>Every command enteredby the user is logged to a text file.
+</pre><h3>📝 Command Logger</h3>Every command entered by the user is logged to a text file.
 
 Example:
 
