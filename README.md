@@ -11,7 +11,7 @@
 <pre>
 > !hello
 Hello!
-</pre><h3>🧮 Calculator</h3>Performs basic arithmetic operations.
+</pre><h3>🧮 Calculator</h3>Performs basic operations, nothing too powerful.
 
 Examples:
 
@@ -27,7 +27,7 @@ Examples:
 7
 72
 5
-</pre><h3>📝 Command Logger</h3>Logs every command entered by the user to a text file.
+</pre><h3>📝 Command Logger</h3>Every command enteredby the user is logged to a text file.
 
 Example:
 
@@ -68,7 +68,7 @@ gcc main.c -o bot
 </tr>
 <tr>
 <td><code>!hello</code></td>
-<td>Prints a greeting message.</td>
+<td>Greetings!</td>
 </tr>
 <tr>
 <td><code>!calc a op b</code></td>
