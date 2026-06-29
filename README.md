@@ -1,4 +1,5 @@
-Simple C CLI Bot
+<h1>Simple C CLI Bot</h1>
+
 
 This is a small command line bot I made while learning C. I wanted to make something that takes commands from the user instead of just printing text on the screen. It isn't a real Slack bot yet, but it's a good starting point for learning how command-based programs work.
 
